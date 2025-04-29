@@ -22,7 +22,7 @@ for auto swap 0g testnet
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/0gv3-bot.git
+   git clone https://github.com/airdropbomb/0gv3-bot.git 
    cd 0g-bot
    ```
 
