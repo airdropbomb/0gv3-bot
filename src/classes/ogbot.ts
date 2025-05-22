@@ -13,10 +13,10 @@ export class ogBot {
   private privkey: string;
   private web3: any;
   private wallet: ethers.Wallet;
-  private swapaddress: string = '0xb95b5953ff8ee5d5d9818cdbefe363ff2191318c';
-  private usdtaddress: string = '0x3ec8a8705be1d5ca90066b37ba62c4183b024ebf';
-  private ethaddress: string = '0x0fe9b43625fa7edd663adcec0728dd635e4abf7c';
-  private btcaddress: string = '0x36f6414ff1df609214ddaba71c84f18bcf00f67d';
+  private swapaddress: string = '0xb95B5953FF8ee5D5d9818CdbEfE363ff2191318c';
+  private usdtaddress: string = '0x3eC8A8705bE1D5ca90066b37ba62c4183B024ebf';
+  private ethaddress: string = '0x0fE9B43625fA7EdD663aDcEC0728DD635e4AbF7c';
+  private btcaddress: string = '0x36f6414FF1df609214dDAbA71c84f18bcf00F67d';
   private usdtContract: any;
   private swapContract: any;
   private btcContract: any;
